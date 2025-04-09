@@ -1,0 +1,2 @@
+G:/shandcn/android/app/.cxx/RelWithDebInfo/70y2g222/x86/CMakeFiles/edit_cache.dir
+G:/shandcn/android/app/.cxx/RelWithDebInfo/70y2g222/x86/CMakeFiles/rebuild_cache.dir
